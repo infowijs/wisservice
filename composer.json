@@ -1,0 +1,17 @@
+{
+   "name": "infowijs/wisservice",
+   "description": "Class to do SOAP requests to the Somtoday WISService.",
+   "version": "1.2.0",
+   "authors": [
+      {
+         "name": "Thomas Schoffelen",
+         "email": "thomas@infowijs.nl"
+      }
+   ],
+   "license": "proprietary",
+   "autoload": {
+      "psr-0": {
+         "Somtoday\\": "src/"
+      }
+   }
+}
