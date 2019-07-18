@@ -38,7 +38,18 @@ As there is no official documentation about the parameters accepted by each SOAP
 tool like [SOAPUI](https://www.soapui.org/downloads/soapui.html). This is that same tool that Topicus uses
 internally to develop and test the WISService endpoints.
 
-### Endpoints list
+### Autocompletion
+
+The library is set up to autocomplete these function names in an IDE that supports PHPDoc.
+
+### Notes on field formats
+
+* Fields that require a date (e.g. `peilDatum`), all use ISO 8601 formatting.
+
+### Endpoints
+
+<details><summary>**View the full list of endpoints**</summary>
+
 The following endpoints are available:
 
 * getLeerling
@@ -85,12 +96,7 @@ The following endpoints are available:
 * getLeerlingMetPasfoto
 * getLeerlingAbsentieTotalen
 
-The library is set up to autocomplete these function names in an IDE that supports PHPDoc.
-
-### Notes on field formats
-
-* Fields that require a date (e.g. `peilDatum`), all use ISO 8601 formatting.
-
+</details>
 
 ## Credits
 
