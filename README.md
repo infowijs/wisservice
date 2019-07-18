@@ -48,7 +48,7 @@ The library is set up to autocomplete these function names in an IDE that suppor
 
 ### Endpoints
 
-<details><summary>**View the full list of endpoints**</summary>
+<details><summary><b>View the full list of endpoints</b></summary>
 
 The following endpoints are available:
 
